@@ -1,0 +1,2 @@
+# Simple-Single-Objects
+class 
